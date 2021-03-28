@@ -1,0 +1,223 @@
+
+---Downloaded files---
+The import files for: Beauty Salon were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://localhost/YoungButterfly
+Data file = C:\xampp\htdocs\YoungButterfly\wp-content\plugins\keydesign-addon\theme\admin/demos/beauty-salon/demo-content.xml
+Widget file = C:\xampp\htdocs\YoungButterfly\wp-content\plugins\keydesign-addon\theme\admin/demos/general/widgets.wie
+Customizer file = not defined!
+Redux files:
+redux_ThemeTek -> C:\xampp\htdocs\YoungButterfly\wp-content\plugins\keydesign-addon\theme\admin/demos/beauty-salon/theme-options.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag Bags
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio-category Branding
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_tag Footwear
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import portfolio-category Graphic design
+[WARNING] Failed to import portfolio-category Marketing
+[WARNING] Failed to import product_cat Misc
+[WARNING] Failed to import product_tag Modern
+[WARNING] Failed to import product_tag Office
+[WARNING] Failed to import portfolio-category Photography
+[WARNING] Failed to import product_tag Watches
+[WARNING] Failed to import portfolio-category Web design
+[WARNING] Failed to import product_tag Wood
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag Bags
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio-category Branding
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_tag Footwear
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import portfolio-category Graphic design
+[WARNING] Failed to import portfolio-category Marketing
+[WARNING] Failed to import product_cat Misc
+[WARNING] Failed to import product_tag Modern
+[WARNING] Failed to import product_tag Office
+[WARNING] Failed to import portfolio-category Photography
+[WARNING] Failed to import product_tag Watches
+[WARNING] Failed to import portfolio-category Web design
+[WARNING] Failed to import product_tag Wood
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag Bags
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio-category Branding
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_tag Footwear
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import portfolio-category Graphic design
+[WARNING] Failed to import portfolio-category Marketing
+[WARNING] Failed to import product_cat Misc
+[WARNING] Failed to import product_tag Modern
+[WARNING] Failed to import product_tag Office
+[WARNING] Failed to import portfolio-category Photography
+[WARNING] Failed to import product_tag Watches
+[WARNING] Failed to import portfolio-category Web design
+[WARNING] Failed to import product_tag Wood
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag Bags
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio-category Branding
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_tag Footwear
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import portfolio-category Graphic design
+[WARNING] Failed to import portfolio-category Marketing
+[WARNING] Failed to import product_cat Misc
+[WARNING] Failed to import product_tag Modern
+[WARNING] Failed to import product_tag Office
+[WARNING] Failed to import portfolio-category Photography
+[WARNING] Failed to import product_tag Watches
+[WARNING] Failed to import portfolio-category Web design
+[WARNING] Failed to import product_tag Wood
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag Bags
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio-category Branding
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_tag Footwear
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import portfolio-category Graphic design
+[WARNING] Failed to import portfolio-category Marketing
+[WARNING] Failed to import product_cat Misc
+[WARNING] Failed to import product_tag Modern
+[WARNING] Failed to import product_tag Office
+[WARNING] Failed to import portfolio-category Photography
+[WARNING] Failed to import product_tag Watches
+[WARNING] Failed to import portfolio-category Web design
+[WARNING] Failed to import product_tag Wood
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag Bags
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio-category Branding
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_tag Footwear
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import portfolio-category Graphic design
+[WARNING] Failed to import portfolio-category Marketing
+[WARNING] Failed to import product_cat Misc
+[WARNING] Failed to import product_tag Modern
+[WARNING] Failed to import product_tag Office
+[WARNING] Failed to import portfolio-category Photography
+[WARNING] Failed to import product_tag Watches
+[WARNING] Failed to import portfolio-category Web design
+[WARNING] Failed to import product_tag Wood
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_tag Bags
+[WARNING] Failed to import product_tag Black
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import portfolio-category Branding
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_tag Footwear
+[WARNING] Failed to import product_cat Furniture
+[WARNING] Failed to import portfolio-category Graphic design
+[WARNING] Failed to import portfolio-category Marketing
+[WARNING] Failed to import product_cat Misc
+[WARNING] Failed to import product_tag Modern
+[WARNING] Failed to import product_tag Office
+[WARNING] Failed to import portfolio-category Photography
+[WARNING] Failed to import product_tag Watches
+[WARNING] Failed to import portfolio-category Web design
+[WARNING] Failed to import product_tag Wood
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+redux-social-icons-display - Social - Site does not support widget
+
+Shop Sidebar : 
+
+woocommerce_product_search - Search Products - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+
+Page Sidebar : 
+
+Search - Search site - Imported
+Navigation Menu - Navigation - Imported
+Categories - No Title - Imported
+Tag Cloud - Tags - Imported
+Text - About us - Imported
+redux-social-icons-display - Social - Site does not support widget
+Text - Subscribe to newsletter - Imported
+
+Footer first widget area : 
+
+Navigation Menu - About - Imported
+
+Footer second widget area : 
+
+Navigation Menu - Additional links - Imported
+
+Footer third widget area : 
+
+Categories - Categories - Imported
+
+Footer fourth widget area : 
+
+Text - Ekko - Imported
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
+
+---pt-ocdi/after_import---
+
