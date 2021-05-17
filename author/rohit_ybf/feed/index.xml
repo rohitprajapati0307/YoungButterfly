@@ -9,8 +9,8 @@
 
 <channel>
 	<title>rohit_ybf &#8211; YoungButterfly</title>
-	<atom:link href="https://rohitprajapati0307.github.io/YoungButterfly/author/rohit_ybf/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rohitprajapati0307.github.io/YoungButterfly</link>
+<!-- 	<atom:link href="https://rohitprajapati0307.github.io/YoungButterfly/author/rohit_ybf/feed/" rel="self" type="application/rss+xml" /> 
+	<link>https://rohitprajapati0307.github.io/YoungButterfly</link> -->
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 28 Mar 2021 09:40:26 +0000</lastBuildDate>
 	<language>en-US</language>
